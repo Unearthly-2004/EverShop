@@ -1,3 +1,9 @@
 extend type Setting {
   minAge: Int!
+  maxAge: Int
+  ageVerificationMethod: String
 }
+
+# minAge: Specifies the minimum age required.
+# maxAge: Optional field to set an upper age limit.
+# ageVerificationMethod: Specifies the method used for age verification (e.g., "ID Check", "Self Declaration").
