@@ -19,3 +19,4 @@ CMD ["npm", "run", "start"]
 // Fix typo in config at 2024-10-15 09:31:36
 // Update nodemon config at 2024-10-25 17:34:51
 // Fix typo in config at 2024-11-15 14:03:00
+// Update README at 2024-11-22 11:45:40
