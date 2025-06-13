@@ -15,3 +15,4 @@ RUN npm run build
 EXPOSE 80
 CMD ["npm", "run", "start"]
 // Refine prepublish script at 2024-10-12 16:03:44
+// Update Docker setup at 2024-10-14 10:31:19
