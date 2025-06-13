@@ -17,4 +17,4 @@ cypress
 /config
 .prettierignore
 .prettierrc
-mysqlToPostgres.js
+mysqlToPostgres.js// Tweak ESLint settings at 2024-10-01 12:22:51
