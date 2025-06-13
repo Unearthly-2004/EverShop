@@ -40,3 +40,4 @@ networks:
 volumes:
   postgres-data:
 // Update Docker setup at 2024-10-10 16:09:31
+// Adjust test configuration at 2024-10-27 17:33:42
